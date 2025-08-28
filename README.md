@@ -45,8 +45,8 @@ AI-Job-Mailer/
 
 Clone the repository:
 
-git clone https://github.com/your-username/AI-Job-Mailer.git
-cd AI-Job-Mailer
+git clone https://github.com/ArunSanyal/AI-job-mailer.git
+cd AI-job-mailer
 
 
 Create a virtual environment & install dependencies:
