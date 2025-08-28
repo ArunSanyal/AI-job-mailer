@@ -1,0 +1,8 @@
+Extract Tect using langchains 
+use llma model to extract job role and other important features 
+
+put it into chromaDB 
+
+prev stored potfolio CSV so will check with them with job role etc and provide necessary links accordingly 
+
+all of this will go into in an LLm agauin and generate a mail ready for the role 
